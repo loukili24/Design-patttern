@@ -1,2 +1,6 @@
 com\floukili\org\design\patterns\simple\example\SimpleClass.class
 com\floukili\org\design\patterns\simple\example\Singleton.class
+com\floukili\org\design\patterns\Strategy\ConcreteStrategyB.class
+com\floukili\org\design\patterns\Strategy\ConcreteStrategyA.class
+com\floukili\org\design\patterns\Strategy\Context.class
+com\floukili\org\design\patterns\Strategy\Strategy.class

@@ -1,2 +1,5 @@
+com\floukili\org\design\patterns\Strategy\ConcreteStrategyATest.class
+com\floukili\org\design\patterns\Strategy\ConcreteStrategyBTest.class
+com\floukili\org\design\patterns\Strategy\ContextTest.class
 com\floukili\org\design\patterns\simple\example\SimpleClassTest.class
 com\floukili\org\design\patterns\simple\example\SingletonTest.class
