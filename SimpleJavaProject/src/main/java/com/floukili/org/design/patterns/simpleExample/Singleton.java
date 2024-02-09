@@ -8,10 +8,7 @@ package com.floukili.org.design.patterns.simple.example;
 	 }
 	
 	 public static Singleton getInstance() {
-		 
-		 if (instance==null) {
-			 instance=new Singleton();
-		 }
-		 return instance;
-	 }
+	        instance = new Singleton(); 
+	        return instance;
+	    }
 }
