@@ -12,9 +12,9 @@ public class SimpleClassTest {
 
     	SimpleClass simpleClass= new SimpleClass();
         
-		int additionResult = simpleClass.add(2,5);
+		int additionResult = simpleClass.add(1,5);
 		
-	    assertEquals(14, additionResult);
+	    assertEquals(12, additionResult);
 		
 		
 	}
